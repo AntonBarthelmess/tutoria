@@ -1,0 +1,461 @@
+
+div {
+    display: inline-block;
+    }
+
+nav {
+    display: inline-block;
+    }
+
+.blueblock { 
+            display: block;
+            height: 50px;
+            width: 100%;
+            background-color: #30BDFF;
+            position: fixed;
+            z-index: 1000;
+            margin-top: -10px
+            }
+
+.tutoria    { 
+            display: block;
+            padding-left:40px;
+            padding-right: 110px;
+            font-size: 50px;
+            font-family: apple symbols;
+            color: white;
+            text-decoration: none;
+            }
+
+.research   { 
+            display: inline-block;
+            width: 35%;
+            height: 0px;
+            padding-top: -10px;
+            margin-bottom: 0px;
+            margin-left: 150px;
+            }
+
+.login      {
+            text-decoration: none;
+            font-size: 30px;
+            font-family: apple symbols;
+            color: white;
+            padding-left: 280px;
+            }
+
+#aabout    {
+            text-decoration: none;
+            color: white;
+            font-family: apple symbols;
+            font-size: 30px;
+            margin-left: 800px;
+            margin-top: -20px;
+            }
+
+.main        { 
+            display: block;
+            width: 100%;
+            height: 2000px;
+            background-color:#edecec;
+            margin:auto;
+            }
+
+.white_block{
+            display: block;
+            width: 100%;
+            height: 1800px;
+            background-color: #edecec;
+            margin: auto;
+            padding-top: 100px;
+            }
+
+
+.slogan     { 
+            font-family: apple symbols;
+            padding-left: 125px;
+            font-size: 105px;
+            margin-top: 12px;
+            font-weight: 200;
+            color: #5d5d5d;
+            }
+
+.line           { 
+                margin-top: 0px;
+                height: -50px;
+                border-color: black;
+                width: 940px;
+                }
+
+grey_block{
+            width: 950px;
+            height: 80px;
+            background-color: #edecec;
+            margin-top: -100px;
+            padding-top: 0px;
+        
+            }
+#categories{ 
+            margin-top: -70px;
+            padding-left: 60px;
+            font-size: 50px;
+            font-family: apple symbols;
+            font-weight: 100;
+            color: #5d5d5d;
+            }
+
+#upload{    display: block;
+            margin-top: -70px;
+            margin-bottom: 20px;
+            margin-left: 75%;
+            font-size: 50px;
+            font-family: apple symbols;
+            font-weight: 100;
+            color: #5d5d5d;
+            }
+
+
+.td_font1    {
+            display: block;
+            font-family: apple symbols;;
+            text-align: center;
+            color: #ffffff;
+            text-decoration: none;
+            padding-top: 150px;
+            font-weight: 900;
+            margin-left: 250px;;
+            background: url(food.jpg);
+            background-size: 400px;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 400px;
+            height: 250px;
+            margin-bottom: -50px;
+            }
+
+.cooking   {
+            padding-top: 150px;
+            padding-bottom: 100px;
+            font-family: apple symbols;;
+            font-size: 90px;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: 900;
+            margin-top: 100px;
+            }
+
+.td_font2   {
+            padding-top: 350px;
+            display: block;
+            background: url(coktail.jpg);
+            background-size: 600px;
+            background-repeat: no-repeat;
+            background-position: center;
+            position: relative;
+            width: 400px;
+            height: 400px;
+            margin-top: -575px;
+            margin-left: 750px;
+            margin-bottom: -60px;
+            }
+
+#td_font2_text   {
+            padding-top: 150px;
+            padding-bottom: 100px;
+            display: inline;
+            font-family: apple symbols;
+            font-size: 90px;
+            font-weight: 900;
+            color: white;
+            margin-left: 90px;
+            margin-top: -10px;
+            text-decoration: none;
+            }
+
+
+
+#line2      { 
+            margin-top: 40px;
+            }
+
+#line4      { 
+            width: 40%;
+            }
+
+#about      { 
+            margin-top: 25px;
+            }
+
+#about2      { 
+            margin-top: 10px;
+            margin-left: 45%;
+            font-family: apple symbols;
+            font-size: 50px;
+            color: #5d5d5d;
+            }
+
+#about3      { 
+            margin-top: 0px;
+            margin-left: 43%;
+            font-family: apple symbols;
+            font-size: 50px;
+            color: #5d5d5d;
+            margin-bottom: 0px;
+            }
+
+.about2background      { 
+            background-color: white;
+            }
+
+#description2 {
+            margin-left: 20%;
+            margin-top: -25px;
+            font-family: apple symbols;
+            font-size: 25px;
+            color: #5d5d5d;
+            width: 60%;
+            text-align: center;
+            }
+
+#description3 {
+            display: inline-block;
+            margin-left: 15%;
+            margin-top: -45px;
+            font-family: apple symbols;
+            font-size: 25px;
+            color: #5d5d5d;
+            width: 30%;
+            text-align: center;
+            }
+
+#description4 {
+            display: inline-block;
+            margin-left: 10%;
+            margin-top: 0px;
+            font-family: apple symbols;
+            font-size: 25px;
+            color: #5d5d5d;
+            width: 30%;
+            text-align: center;
+            
+            }
+
+
+#about_title    { 
+                margin-top: -200px;
+                margin-left: 5%;
+                font-size: 40px;
+                font-family: apple                     symbols;
+                font-weight: 100;
+                color: #5d5d5d;
+                }
+
+#description{
+            margin-left: 5%;
+            margin-top: -25px;
+            font-family: apple symbols;
+            font-size: 25px;
+            color: #5d5d5d;
+            width: 60%;
+            }
+
+.logo       {
+            display: inline;
+            width: 200px;
+            height: 80px;
+            background-color: #30BDFF;
+            margin-left: 1000px;
+            margin-top: 110px;
+            color: white;
+            font-family: apple symbols;
+            font-size: 70px;
+            border-radius: 5px;
+            padding-left: 20px;
+            padding-top: 10px;
+            }
+
+.fact1      { 
+             margin-top: 30px;
+            margin-left: 100px;
+            font-family: apple symbols;
+            border: black solid 1px;
+            display: inline-block;      
+            font-size: 40px;
+            color: #5d5d5d;
+            border-collapse: separate;
+            border-spacing: 500px;
+            }
+
+.name1      { 
+            display: inline;
+            margin-left: 20%;
+            font-family: apple symbols;
+            color: #5d5d5d;
+            font-size: 30px;
+            margin-top: 10px;
+            }
+
+.name2      { 
+            display: inline;
+            margin-left: 65%;
+            font-family: apple symbols;
+            color: #5d5d5d;
+            font-size: 30px;
+            }
+
+#email_tutor      { 
+            display: inline-block;
+            margin-left: 70px;
+            margin-top: -30px;
+            font-family: apple symbols;
+            color: #5d5d5d;
+            font-size: 30px;
+            }
+
+#email__tutor      { 
+            display: inline-block;
+            margin-left: px;
+            margin-top: px;
+            font-family: helvetica;
+            color: black;
+            font-size: 15px;
+            width: 250px;
+            }
+
+#submit_email      { 
+            display: inline-block;
+            margin-left: 10px;
+            color: black;
+            font-size: 20px;
+            width: 70px;
+            }
+
+#subscribetext         { 
+                    font-family: apple symbols;
+                    color: white;
+                    margin-left: ;
+                    font-size: 20px;
+                    margin-top: 15px;
+                    }
+
+#subscribe         { 
+                    display: inline;
+                    font-family: apple symbols;
+                    color: white;
+                    background-color:#30BDFF;
+                    margin-left: 500px;
+                    margin-top: -100px;
+                    padding-top: -50px;
+                    font-size: 20px;
+                    width: 400px;
+                    height: 50px;
+                    border: none;
+                    }
+#submit         { 
+                    font-family: apple symbols;
+                    color: black;
+                    margin-left: 570px;
+                    font-size: 20px;
+                    border-radius: 0px;
+                    width: 70px;
+                    margin-top: 0px
+                    }
+
+#about         { 
+                    font-family: apple symbols;
+                    color: white;
+                    text-decoration: none;
+                    font-size: 30px;
+                    margin-left: 100px;
+                    }
+
+#person1         { 
+                    height: 250px;
+                    width: 300px;
+                    text-align: center;
+                    margin-left: 20%;
+                    display: inline;
+                    font-family: apple symbols;
+                    color: #5d5d5d;
+                    font-size: 35px;
+                    }
+
+.portrait1    {
+            display: block;
+            margin-left: 33%;
+            background: url(linkedin%20photo.jpg);
+            background-size: 120px;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 120px;
+            height: 160px;
+            margin-top: 10px;
+            border-radius: 330px
+            }
+
+.portrait2    {
+            display: block;
+            margin-left: 33%;
+            background: url(portrait_ben.jpg);
+            background-size: 120px;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 125px;
+            height: 150px;
+            margin-top: 10px;
+            border-radius: 330px;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

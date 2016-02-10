@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tutoria</title>
+    <link rel="stylesheet" href="Tutorial_creator.css"/>
+    <script type="text/javascript" src="jquery-1.11.3.min.js"></script> 
+<script  type="text/javascript"  src="Tutorial_Creator.js"></script>
+    <link rel="SHORTCUT ICON" href="favicon.ico" type="image/x-icon" />
+</head>
+    
+<header>
+    
+    <div class= blueblock>
+        
+       <nav><a href ="draft4_HomePage.html" class="tutoria">Tutoria</a></nav>                
+        
+        <input class="research" type="search" name="searchbox">
+        
+        <nav><a href = "login.html" class="login">Login</a></nav>
+        
+        <nav><a href="sign_up.html" class="sign_up">Sign Up</a></nav>
+    
+    </div>
+
+</header>
+    
+<body>
+    
+<div class="main">
+
+
+    
+    <div class="white_block">
+         <div class="grey_line"></div>
+        
+    <h1 id="title">Tutorial Creator</h1>
+        
+        <hr id="line">
+<form
+      name="Tutorial Creator"
+      enctype="multipart/form-data"
+      action="tutorial-creator.php"
+      method="post"
+      autocomplete="off">
+    <fieldset id="form">
+        <legend id="legend">Tutorial Information</legend>
+        
+        <h2 class="tutorial_name">Tutorial Name<input id="tutorial_name_input"type="text" name="Tutorial Name"></h2>
+        
+        <h2 class="tutorial_name">Category<select name="Category" id="category_select"> 
+
+<option value="Home">House</option>
+<option value="Car">Car</option>
+<option value="Appliances">Appliances</option>
+<option value="Beauty">Beauty</option>
+<option value="Cooking">Cooking</option>
+<option value="IT">IT</option>
+<option value="Garden">Garden</option>
+<option value="Workout">Workout</option>
+<option value="Clothing">Clothing</option>
+<option value="Outdoor">Outdoor</option>
+<option value="Indoor">Indoor</option>
+<option value="Education">Education</option>
+
+</select></h2>
+        
+        <h2 id="sub_catgeory_title">Sub-Category<input id="sub_category"type="text" name="sub_category"></h2>
+    
+        <h2 id="video_upload">Upload Tutorial Video</h2><input id="upload_button" type="file" name="Upload your Tutorial" value="hello">
+
+        </fieldset>
+
+    <div>
+    <h2 id="necessary_equipment_title">Necessary Equipment:</h2>
+        <textarea id="necessary_equipment" name="necessary_equipment"></textarea>
+    </div>
+    
+<div>
+<h2 class="step">Step 1:</h2>
+ <h3 class= minutes1>Minutes:</h3><input type=time name=time value=time class="time1">    
+<textarea id="submit_text1" name="Submit Step 1"></textarea></div>
+    
+    <h2 id="add_step_here"></h2>
+    
+     <input type="button" name="add_step" id="add_step" value="Add Step">
+    
+    
+    <input type="button" name="Sumbit_Tutorial" id="submit_tutorial" value="Submit Tutorial">
+        
+</form>
+  
+       
+ <div class="description"></div>
+        
+        
+       
+        
+        
+        
+    
+
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    </body>
+    

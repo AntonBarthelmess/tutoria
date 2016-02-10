@@ -1,0 +1,323 @@
+div {
+    display: inline-block;
+    }
+
+nav {
+    display: inline-block;
+    }
+
+.blueblock { 
+            display: block;
+            height: 50px;
+            width: 100%;
+            background-color: #30BDFF;
+            position: fixed;
+            z-index: 1000;
+            margin-top: -10px
+            }
+
+.tutoria    { 
+            padding-top: 15px;
+            padding-left:40px;
+            padding-right: 110px;
+            font-size: 50px;
+            font-family: apple symbols;
+            color: white;
+            text-decoration: none;
+            }
+
+.research   { 
+            display: inline-block;
+            width: 35%;
+            height: 0px;
+            padding-top: -10px;
+            margin-bottom: 0px;
+            margin-left: 30px;
+    
+            }
+
+.login      {
+            text-decoration: none;
+            font-size: 30px;
+            font-family: apple symbols;
+            color: white;
+            padding-left: 280px;
+            }
+
+.sign_up    {
+            text-decoration: none;
+            font-size: 30px;
+            font-family: apple symbols;
+            padding-left: 50px;
+            color: white;
+            }
+.main        { 
+            display: block;
+            width: 100%;
+            height: 2000px;
+            background-color:#edecec;
+            margin: auto;
+            }
+
+.grey_line  { 
+            width: 1200px;
+            height: 40px;
+            background-color: #edecec;
+            }
+
+.white_block{
+            display: block;
+            width: 950px;
+            height: 1800px;
+            background-color: #efefef;
+            margin: auto;
+            padding-top: 100px;
+            }
+
+.cooking_title        { 
+            display: block;
+            width: 910px;
+            height: 155px;
+            margin: auto;
+            margin-top: -50px;
+            background-size: 950px;
+            background-position: center;
+            background-image:       url("pano_cocktail.jpg");
+            font-size: 150px;
+            font-family: apple symbols;
+            color: white;
+            letter-spacing: -2px;
+            padding-left: 40px;
+            padding-top: 20px
+            }
+
+#img_car    {
+            display: block;
+            width: 950px;
+            height: 130px;
+            margin: auto;
+            margin-top: -100px;
+            background-size: cover;
+            }
+
+
+.tutorials{ 
+                display: inline-block;
+                font-size: 45px;
+                font-family: apple symbols;
+                color: grey;
+                padding-left: 10px;
+                margin-top: 20px;
+                padding-bottom: 0px;
+                word-spacing: -3px;
+                }
+
+.line           { 
+                margin-top: -30px;
+                height: -5px;
+                border-color: #edecec;
+                }
+
+
+.form           {
+                border: 1px dashed grey;
+                }
+
+.tutorial1_photo   {
+                    background-image: url(mojito.jpg);
+                    background-size: 350px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 5px;
+                    margin-left: 10px;
+                    }
+
+#video1         {
+                display: block;
+                margin-left: 160px;
+                margin-left: 160px;
+                font-family: apple symbols;
+                font-size: 30px;
+                color: #0e0eb1;
+                word-spacing: -3px;
+                margin-top: -205px;
+                text-decoration: none;
+                }
+
+.tutorial2_photo   {
+                    background-image: url(tquilla_sunrise.jpg);
+                    background-size: 350px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+#video2         {
+                display: block;
+                margin-left: 160px;
+                font-family: apple symbols;
+                font-size: 30px;
+                color: #0e0eb1;
+                word-spacing: -3px;
+                margin-top: -205px;
+                text-decoration: none;
+                }
+
+.videodescription   {
+                    display: block;
+                    margin-top: -30px;
+                    margin-left: 320px;
+                    font-size: 20px;
+                    font-family: apple symbols;
+                    }
+
+.videousername      {
+                    display: block;
+                    margin-left: 320px;
+                    margin-top: -20px;
+                    font-size: 20px;
+                    color: #30BDFF;
+                    font-family: apple symbols;
+                    }
+
+.tutorial3_photo   {
+                    background-image: url(Bolognese_Sauce.jpg);
+                    background-size: 300px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+#subscribetext         { 
+                    font-family: apple symbols;
+                    color: white;
+                    margin-left: -1%;
+                    font-size: 20px;
+                    }
+
+#subscribe         { 
+                    font-family: helvitca;
+                    color: black;
+                    margin-left: 5px;
+                    font-size: 15px;
+                    width: 200px;
+                    }
+#submit         { 
+                    font-family: apple symbols;
+                    color: black;
+                    margin-left: 5px;
+                    font-size: 20px;
+                    border-radius: 0px;
+                    width: 70px;
+                    }
+
+#about         { 
+                    font-family: apple symbols;
+                    color: white;
+                    text-decoration: none;
+                    font-size: 30px;
+                    margin-left: 100px;
+                    }
+
+.tutorial5_photo   {
+                    background-image: url( crumble.jpg);
+                    background-size: 380px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+.tutorial6_photo   {
+                    background-image: url( Omelette.jpg);
+                    background-size: 380px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+.tutorial7_photo   {
+                    background-image: url(sausage.jpg);
+                    background-size: 380px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+.tutorial4_photo   {
+                    background-image: url(crepes.jpg);
+                    background-size: 380px;
+                    background-position: center;
+                    display: inline-block;
+                    height: 200px;
+                    width: 280px;
+                    margin-top: 100px;
+                    margin-left: 10px;
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

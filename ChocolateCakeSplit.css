@@ -1,0 +1,418 @@
+
+div {
+    display: inline-block;
+    }
+
+nav {
+    display: inline-block;
+    }
+
+.blueblock { 
+            display: block;
+            height: 50px;
+            width: 100%;
+            background-color: #30BDFF;
+            position: fixed;
+            z-index: 1000;
+            margin-top: -10px;
+            }
+
+.tutoria    { 
+            padding-top: 15px;
+            padding-left:40px;
+            padding-right: 110px;
+            font-size: 50px;
+            font-family: apple symbols;
+            color: white;
+            text-decoration: none;
+            }
+
+.research   { 
+            display: inline-block;
+            width: 35%;
+            height: 0px;
+            padding-top: -10px;
+            margin-bottom: 0px;
+            margin-left: 30px;
+    
+            }
+
+.login      {
+            text-decoration: none;
+            font-size: 30px;
+            font-family: apple symbols;
+            color: white;
+            padding-left: 280px;
+            }
+
+.sign_up    {
+            text-decoration: none;
+            font-size: 30px;
+            font-family: apple symbols;
+            padding-left: 50px;
+            color: white;
+            }
+
+.main       { 
+            display: block;
+            height: 750px;
+            background-color:#edecec;
+            margin: auto;
+            width: 100%;
+            }
+
+.grey_line  { 
+            display: inline-block;
+            width: 100%;
+            height: 100px;
+            background-color: #edecec;
+            margin-top: -30px
+            }
+
+.white_block1{
+            display: inline-block;
+            width: 790px;
+            height: 650px;
+            background-color: white;
+            margin-left: 20px;;
+            }
+
+.nosplit      { 
+            margin-left: 360px;
+            margin-top: px;
+            font-family: apple symbols;
+            text-decoration: none;
+            color: blue;
+            font-size: 20px;
+            }
+
+#video      { 
+            margin-left: 10px;
+            margin-top: 2px;
+            }
+.slogan     { 
+            font-family: apple symbols;
+            color: #30BDFF;
+            padding-left: 125px;
+            font-size: 30px;
+            margin-top: 12px;
+            }
+
+.video_title{ 
+            display: block;
+            margin-left: 35px;
+            margin-top: 0px;
+            font-family: Helvetica Neue;
+            font-size: 35px;
+            color: #696969;
+            }
+
+.videodescription   {
+                    display: block;
+                    margin-top: -70px;
+                    margin-left: 110px;
+                    font-size: 17px;
+                    font-family: apple symbols;
+                    }
+
+.videousername      {
+                    display: block;
+                    margin-left: 110px;
+                    margin-top: -20px;
+                    font-size: 17px;
+                    color: #30BDFF;
+                    font-family: apple symbols;
+                    }
+
+.userphoto          { 
+                    display: inline-block;
+                    width: 70px;
+                    height: 70px;
+                    margin-top: -20px;
+                    margin-left: 35px;
+                    }
+
+.line               { 
+                    margin-top: -30px;
+                    color: #d4d2d2;
+                    width: 550px;
+                    margin-left: 0px;
+                    }
+
+.guidetitle         { 
+                    display: inline-block;
+                    margin-left: 50px;
+                    font-family: Helvetica Neue;
+                    color: #696969;
+                    font-size: 40px;
+                    text-decoration: none;
+                    margin-top: 0px;
+                    }
+
+.line2               { 
+                    margin-top: -5px;
+                    z-index: 1000;
+                    width: 550px;
+                    margin-left: 800px;
+                    }
+
+#getemail              { 
+                    margin-left: 400px;
+                    border-radius: 0px;
+                    font-size: 20px;
+                    font-family: apple symbols;
+                    width: 100px;
+                    }
+
+
+#materials              { 
+            display: block;
+            margin-left: 0px;
+            margin-top: -30px;
+            width: 80px;
+            height: 30px; 
+            background-color: #867f7f;
+            font-size: 20px;
+            font-family: apple symbols;
+            color: white;
+            font-weight: 600;
+            border: none;
+            outline: none;
+            }
+
+#steps              { 
+            display: block;
+            margin-left: 80px;
+            margin-top: -27px;
+            width: 80px;
+            height: 30px; 
+            background-color: white;
+            font-size: 20px;
+            font-family: apple symbols;
+            color: #606060;
+            font-weight: 600;
+            border: none;
+            outline: none;
+            }
+
+#transcript              { 
+            display: block;
+            margin-left: 160px;
+            margin-top: -30px;
+            width: 80px;
+            height: 30px; 
+            background-color: white;
+            font-size: 20px;
+            font-family: apple symbols;
+            color: #606060;
+            font-weight: 600;
+            border: none;
+            outline: none;
+            }
+
+#faq              { 
+            display: block;
+            margin-left: 240px;
+            margin-top: -30px;
+            width: 80px;
+            height: 30px; 
+            background-color: white;
+            font-size: 20px;
+            font-family: apple symbols;
+            color: #606060;
+            font-weight: 600;
+            border: none;
+            outline: none;
+            }
+
+#add_step_here{ 
+            display: block;
+            margin-left: 20px;
+            margin-top: 0px;
+            font-family: apple symbols;
+            color: #606060;
+            width: 500px;
+            height: 525px;
+            overflow: scroll;
+            background-color: white;
+            }
+
+.step1              { 
+                    margin-top: px;
+                    margin-left: 0px;
+                    margin-bottom: 0px;
+                    font-family: apple symbols;
+                    font-size: 30px;
+                    color: #4747f8;
+                    margin-bottom: -20px;
+                    background-color: white;
+                    border: none;
+                    font-weight: 600;
+                    }
+
+
+
+.guide_steps        { 
+                    width: 400px;
+                    margin-left: 0px;
+                    margin-top: -30px;
+                    }
+
+.material           { 
+                    margin-left: 0px;
+                    font-family: helvetica;
+                    font-size: 20px;
+                    color: black;
+                    margin-bottom: -20px;
+                    }
+
+.num           { 
+                  color: #1212b1;
+                    }
+#guide           { 
+                    display: block;
+                    width: 550px;
+                    height: 580px;
+                    margin-left: 800px;
+                    margin-top: -583px;
+                    background-color: white;
+                    font-size: 25px;
+                    }
+
+#subscribetext         { 
+                    font-family: apple symbols;
+                    color: white;
+                    margin-left: -1%;
+                    font-size: 20px;
+                    margin-top: -3330px;
+                    margin-left: 200px;
+                    }
+
+#submit         { 
+                    font-family: apple symbols;
+                    color:black;
+                    margin-left: 800px;
+                    font-size: 20px;
+                    border-radius: 5px;
+                    width: 80px;
+                    background-color: white;
+                    border-color: white;
+                    margin-top: -10px;
+                    }
+
+#about         { 
+                    font-family: apple symbols;
+                    color: white;
+                    text-decoration: none;
+                    font-size: 30px;
+                    margin-left: 100px;
+                    }
+
+#number_of_persons  { 
+                    display: inline;
+                    font-family: helvetica;
+                    font-size: 20px;
+                    margin-left: 5px;
+                    width: 40px;
+                    }
+
+#numberpersons  { 
+                    display: inline;
+                    font-family: helvetica;
+                    font-size: 15px;
+                    margin-left: 5px;
+                    width: 200px;
+                    color: #4a4a4a;
+                    }
+
+.user               { 
+                    font-family: apple symbols;
+                    font-size: 25px;
+                    color: #0000ba;
+                    margin-top: -1px;
+                    }
+
+.comment            { 
+                    font-family: helvetica;
+                    font-size: 14px;
+                    margin-top: -20px;
+                    width: 500px;
+                    color: #454343;
+                    }
+
+#leavecomment       { 
+                    display: inline;
+                    font-family: helvetica;
+                    color: black;
+                    text-decoration: none;
+                    font-size: 12px;
+                    margin-top: 230px;
+                    width: 350px;
+                    }
+
+#submitcomment       { 
+                    display: inline;
+                    font-family: helvetica;
+                    color: black;
+                    text-decoration: none;
+                    font-size: 12px;
+                    margin-top: -20px;
+                    width: 60px;
+                    border-radius: -10px;
+                    }
+
+#add_comment       { 
+                    width:500px;
+                    height: 290px;
+                    margin-top: -380px;
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
